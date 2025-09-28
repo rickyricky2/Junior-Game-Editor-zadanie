@@ -1,0 +1,47 @@
+Room Renovation
+
+Objective:
+    To create a functional bedroom that separates working and relaxation zones.
+
+Scope:
+    - Remove old furniture (sofa, shelves and wardrobe)
+    - Add a comfortable bed
+    - Add new furniture with modern storage
+    - Install ergonomic desk
+    - Set up proper wiring and dual monitors
+    - Mount a TV on the wall
+
+Tasks:
+    1. Preparation:
+        -Clear old furniture
+
+    2. Furniture Upgrade:
+        -Install new bed 
+        -Add new furniture
+        -Assemble new desk
+        
+    4. Tech Setup:
+        -Mount a Tv on the wall
+        -Set up two monitors
+        -Organize cables
+
+Timeline:
+    - Preparation: one day
+    - Furniture Upgrade: two days
+    - Tech Setup: one day
+
+Resources:
+    -New bed, desk, wardrobe, shelves
+    -Cables, monitors, TV
+
+Budget:
+    5900PLN - 6700PLN
+
+Risks:
+    -Delivery issues
+    -Wiring issues
+    -Installation damage
+    -Budget increase
+
+Conclusion:
+    Renovated room will provide a comfortable and productive space for rest and work.
