@@ -112,3 +112,30 @@ main{
 #article1 .square:hover{
     box-shadow: 0 2px 5px 2px rgba(0,0,0,0.2);
 }
+@media (max-width:583px){
+    main{
+        flex-direction: column;
+        padding:1rem;
+        justify-content:normal;
+    }
+    #article3{
+        padding: 1rem 2rem;
+    }
+    #article3 #rectangle{
+        background-color: #0000FF;
+    }
+}
+
+@media (min-width:900px){
+    #section1{
+        gap:8rem;
+        flex-direction: row;
+    }
+    #article3 #rectangle{
+        margin-bottom:1rem;
+        background-color: #FFFFFF;
+    }
+    #article2{
+        align-self: center;
+    }
+}
